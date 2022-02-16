@@ -1,0 +1,2 @@
+second commit using git 
+#MinnalChallenge
